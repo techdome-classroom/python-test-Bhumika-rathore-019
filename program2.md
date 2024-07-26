@@ -6,7 +6,7 @@ Secret Decoder Ring Challenge
 
 Imagine you have a secret decoder ring with two special symbols:
 
-Star Symbol (*): This symbol acts like a wildcard and can stand in for any series of letters, including no letters at all.
+Star Symbol (*): This symbol acts like a wildcard and can stand in for any series of letters, including no letters at all.  
 Question Mark (?): This symbol can replace a single letter in a coded message.
 Your job is to compare a secret message (the input string) with a decoder key (the pattern) using this decoder ring.
 
